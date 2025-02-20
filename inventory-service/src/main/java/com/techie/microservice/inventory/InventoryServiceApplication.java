@@ -1,4 +1,4 @@
-package com.techie.microservices.inventory;
+package com.techie.microservice.inventory;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
